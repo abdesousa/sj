@@ -13,7 +13,6 @@
 </head>
 <body>
 	<h3>Add / Edit bit!!!</h3>
-
 	<form:form method="post" action="/sj/webBit.html" commandName="webBit">
 		<div class="table-responsive">
 			<table class="table table-bordered" style="width: 300px">
@@ -58,5 +57,6 @@
 			</tr>
 		</c:forEach>
 	</table>
+	 
 </body>
 </html>
