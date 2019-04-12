@@ -30,5 +30,36 @@ public class WebBitTest {
         }
 
     }
+ 
+    /* 
+	<form:form method="post" action="/sj/webBit.html" commandName="webBit">
+		<div class="table-responsive">
+			<table class="table table-bordered" style="width: 300px">
+				<tr>
+					<td>Id :</td>
+					<td><form:input type="text" path="id" /></td>
+				</tr>
+				<tr>
+					<td>Name :</td>
+					<td><form:input type="text" path="name" /></td>
+				</tr>
+				<tr>
+					<td>Description :</td>
+					<td><form:input type="text" path="description" /></td>
+				</tr>
+				<tr>
+					<td>Negation :</td>
+					<td><form:input type="text" path="negation" /></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><input class="btn btn-primary btn-sm" type="submit"
+						value="Submit" /></td>
+				</tr>
+			</table>
+		</div>
+	</form:form>
+ */
+
 
 }
